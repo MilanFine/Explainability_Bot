@@ -1,0 +1,14 @@
+### 📦 `requirements.txt`
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+python-dotenv
+faiss-cpu  
+pandas
+openpyxl
+langgraph
+streamlit
+unstructured
+huggingface-hub
+torch
